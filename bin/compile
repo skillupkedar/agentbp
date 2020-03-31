@@ -1,1 +1,2 @@
 echo "This is compile script"
+chmod -R 777 ../
